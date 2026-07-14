@@ -55,8 +55,8 @@ Designed and trained a **GRU-based recurrent neural network** as well as a **Ran
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=strixgodd&show_icons=true&theme=github_dark" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strixgodd&layout=compact&theme=github_dark" height="170"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=strixgodd&show_icons=true&theme=github_dark&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strixgodd&layout=compact&theme=github_dark" />
 </p>
 
 ---
