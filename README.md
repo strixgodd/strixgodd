@@ -7,7 +7,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an M.Tech student at **IIT Kharagpur** with a strong interest in **Data Structures & Algorithms**, **Machine Learning**, **Systems Programming**, and **Privacy-Preserving AI**. I enjoy solving challenging algorithmic problems, building efficient software systems, and understanding the fundamentals that power modern computing.
+I'm currently a student with a strong interest in **Data Structures & Algorithms**, **Machine Learning**, **Systems Programming**, and **Privacy-Preserving AI**. I enjoy solving challenging algorithmic problems, building efficient software systems, and understanding the fundamentals that power modern computing.
 
 ---
 
